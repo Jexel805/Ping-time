@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping time", "Ping time\Ping time.csproj", "{B8640EDA-3228-4DE2-AFD2-71B27A5CC5AE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PingTime", "PingTime\PingTime.vdproj", "{06C559B2-4F8A-4CE2-A98E-1F6F3593C363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8640EDA-3228-4DE2-AFD2-71B27A5CC5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8640EDA-3228-4DE2-AFD2-71B27A5CC5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8640EDA-3228-4DE2-AFD2-71B27A5CC5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8640EDA-3228-4DE2-AFD2-71B27A5CC5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C559B2-4F8A-4CE2-A98E-1F6F3593C363}.Debug|Any CPU.ActiveCfg = Debug
+		{06C559B2-4F8A-4CE2-A98E-1F6F3593C363}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9657D67-C400-48D9-B69F-75C037873474}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+C:\Users\jexel\Desktop\Ping time\Ping time\bin\Debug\Ping time.exe.config
+C:\Users\jexel\Desktop\Ping time\Ping time\bin\Debug\Ping time.exe
+C:\Users\jexel\Desktop\Ping time\Ping time\bin\Debug\Ping time.pdb
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping_time.Form1.resources
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping_time.Properties.Resources.resources
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping time.csproj.GenerateResource.cache
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping time.csproj.CoreCompileInputs.cache
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping time.exe
+C:\Users\jexel\Desktop\Ping time\Ping time\obj\Debug\Ping time.pdb
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\bin\Debug\Ping time.exe.config
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\bin\Debug\Ping time.exe
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\bin\Debug\Ping time.pdb
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping_time.Form1.resources
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping_time.Properties.Resources.resources
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping time.csproj.GenerateResource.cache
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping time.csproj.CoreCompileInputs.cache
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping time.exe
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping time.pdb
+C:\Users\jexel\Desktop\proyectos\Ping time\Ping time\obj\Debug\Ping time.csprojAssemblyReference.cache
